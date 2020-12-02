@@ -11,7 +11,7 @@
 *크롤링 결과물은 파일명: {날짜}-{시간}.json으로 저장됩니다.
 
 
-## 개발환경
+### 개발환경
 Laptop: Mac OS
 
 Editor: Pycharm
@@ -19,7 +19,7 @@ Editor: Pycharm
 Python 3.8
 
 
-## 설치 라이브러리
+### 설치 라이브러리
 ~~~
 $ pip install bs4
 
@@ -28,5 +28,5 @@ $ pip install lxml
 $ pip install requests
 ~~~
 
-## 시연영상
+### 시연영상
 [시연영상 보기](https://youtu.be/42cVOHZ5ovs)
