@@ -17,7 +17,7 @@ Laptop: Mac OS
 
 Editor: Pycharm
 
-Pythoon 3.8
+Python 3.8
 
 
 ## 설치 라이브러리
