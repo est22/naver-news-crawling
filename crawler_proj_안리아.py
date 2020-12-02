@@ -16,7 +16,7 @@ from bs4 import BeautifulSoup
 import bs4.element
 import bs4
 import requests
-#requests.packages.urllib3.disable_warnings()
+requests.packages.urllib3.disable_warnings() # if running in VS code, comment out
 from datetime import datetime
 import json
 
