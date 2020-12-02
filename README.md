@@ -30,3 +30,6 @@ $ pip install lxml
 $ pip install requests
 
 ~~~
+
+## 시연영상
+[시연영상 보기](https://youtu.be/42cVOHZ5ovs)
