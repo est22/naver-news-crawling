@@ -1,4 +1,4 @@
-# naver-news-crawling
+# Naver-news-crawling
 ## 설명
 '''
 *네이버 뉴스 기사의 경제 섹션 중 '금융', '증권', '산업/재계' 분류 뉴스를 크롤링하는 크롤러입니다.
@@ -13,10 +13,14 @@
 '''
 
 ## 개발환경
-Mac OS, Pycharm, Pythoon 3.8
+Laptop: Mac OS
+
+Editor: Pycharm
+
+Pythoon 3.8
 
 
-## 라이브러리
+## 설치 라이브러리
 ~~~
 
 $ pip install bs4
