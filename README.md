@@ -30,3 +30,4 @@ $ pip install requests
 
 ### 시연영상
 [시연영상 보기](https://youtu.be/42cVOHZ5ovs)
+고화질로 설정해주시길 바랍니다.
