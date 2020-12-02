@@ -18,9 +18,11 @@ Mac OS, Pycharm, Pythoon 3.8
 
 ## 라이브러리
 '''
+
 $ pip install bs4
 
 $ pip install lxml
 
 $ pip install requests
+
 '''
