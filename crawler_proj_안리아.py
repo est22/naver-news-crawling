@@ -3,6 +3,7 @@
 $ pip install bs4
 $ pip install lxml
 $ pip install requests
+$ pip install json
 
 ========================== Description ===========================
 Latest Top Ten News Crawler of three sectors from Naver Economy
